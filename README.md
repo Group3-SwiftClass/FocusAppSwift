@@ -134,7 +134,8 @@ Statistics Screen
 - Leads to Home Screen when the user taps back
 
 Wireframes
-[Add picture of your hand sketched wireframes in this section]
+<img src="IMG_1085.jpg" width=600>
+
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
