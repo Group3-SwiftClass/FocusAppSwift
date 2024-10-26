@@ -134,7 +134,7 @@ Statistics Screen
 - Leads to Home Screen when the user taps back
 
 Wireframes
-<img src="https://github.com/Group4-SwiftClass/FocusAppSwift/blob/main/IMG_1085.jpg" width=600>
+<img src="https://github.com/Group4-SwiftClass/FocusAppSwift/blob/main/IMG_1085.jpg" width=600 rotate="90">
 
 
 [BONUS] Digital Wireframes & Mockups
